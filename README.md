@@ -27,5 +27,3 @@ This is a command-line Java project using Spring Boot. The application demonstra
 ## 📦 How to Run
 
 Make sure you have Java 17+ and Maven installed.
-
-```
