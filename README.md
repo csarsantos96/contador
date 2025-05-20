@@ -34,11 +34,11 @@ cd contador
 mvn spring-boot:run
 ```
 
-🇧🇷 Português
+## 🇧🇷 Português
 Projeto de linha de comando em Java com Spring Boot. O sistema realiza uma contagem de 1 até um número informado pelo usuário, e em seguida coleta dados de uma tarefa, gera um JSON a partir desses dados (serialização) e transforma esse JSON de volta em objeto (desserialização). Também foram explorados conceitos de Generics com avaliações de produtos e serviços. 
 
-🇺🇸 English
+## 🇺🇸 English
 Command-line project in Java using Spring Boot. The application counts from 1 to a number entered by the user, then collects task data, serializes it into JSON, and deserializes it back into an object. It also includes examples of Java Generics with product and service reviews.
 
-🇪🇸 Español
+## 🇪🇸 Español
 Proyecto de línea de comandos en Java con Spring Boot. El sistema realiza una cuenta del 1 hasta un número proporcionado por el usuario, luego recoge datos de una tarea, los convierte en JSON (serialización) y los transforma nuevamente en objeto (deserialización). También se exploran conceptos de genéricos en Java con evaluaciones de productos y servicios.
