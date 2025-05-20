@@ -16,7 +16,7 @@ This is a command-line Java project using Spring Boot. The application demonstra
 
 ## 🛠️ Technologies
 
-- Java 17+
+- Java 21
 - Spring Boot
 - Maven
 - Jackson (JSON processing)
@@ -26,4 +26,18 @@ This is a command-line Java project using Spring Boot. The application demonstra
 
 ## 📦 How to Run
 
-Make sure you have Java 17+ and Maven installed.
+Make sure you have Java 21 and Maven installed.
+
+```bash
+git clone https://github.com/csarsantos96/contador.git
+cd contador
+mvn spring-boot:run
+```
+
+🇧🇷 Português
+Projeto de linha de comando em Java com Spring Boot. O sistema realiza uma contagem de 1 até um número informado pelo usuário, e em seguida coleta dados de uma tarefa, gera um JSON a partir desses dados (serialização) e transforma esse JSON de volta em objeto (desserialização). Também foram explorados conceitos de Generics com avaliações de produtos e serviços. 
+
+🇺🇸 English
+Command-line project in Java using Spring Boot. The application counts from 1 to a number entered by the user, then collects task data, serializes it into JSON, and deserializes it back into an object. It also includes examples of Java Generics with product and service reviews.
+
+🇪🇸 Español
