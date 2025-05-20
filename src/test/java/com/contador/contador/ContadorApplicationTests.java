@@ -1,4 +1,4 @@
-package com.contatdor.contador;
+package com.contador.contador;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
